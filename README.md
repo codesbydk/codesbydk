@@ -27,13 +27,15 @@ Hey, I'm Dinesh!
 <a href="#hi-there-"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=600&height=60&lines=DevOps+Engineer+with+2%2B+Yrs+Exp;Budding+MLOPS+Enthusiast;avid+Learner+and+Content+Creator" alt="Typing SVG" /></a>
 </p>
 
-<a href="https://github.com/codesbydk">
+<a href="#">
 <img src="https://komarev.com/ghpvc/?username=codesbydk&color=dc143c&style=plastic">
 </a>
 <a href="https://dineshkumar.blog">
-<img height="20px" src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
+<img height="18px" src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
 </a>
 <br></br>
+
+<img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
 
 Alright, gather 'round for a tale. I once started down the very logical path of an Electronics and Computers Engineer. It was all resistors, signals and circuits until I got gloriously sidetracked by the siren song of the gaming world. I fell down the rabbit hole and came out the other side with an award-winning RPG I built from scratch. I even got to put on my best 'I know what I'm doing' face and pitch it to real-life VCs.
 
