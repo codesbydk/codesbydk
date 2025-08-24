@@ -82,11 +82,11 @@ So, nice to meet you! Let's go build something amazing together.
 Replace YOUR-USERNAME with your GitHub username.
 -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbydk&layout=compact&theme=radical" width="275px" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbydk&layout=compact&theme=algolia" width="275px" alt="Top Languages"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=codesbydk&show_icons=true&theme=radical" width="275px" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=codesbydk&show_icons=true&theme=algolia" width="275px" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codesbydk&theme=radical" width="250px" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codesbydk&theme=algolia" width="250px" alt="GitHub Streak"/>
 &nbsp;
 <img alt="codesbydk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=codesbydk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="500px"/>&nbsp;
 </p>
@@ -116,7 +116,7 @@ Replace YOUR-USERNAME with your GitHub username.
 <p align="center">
 <a href="https://www.linkedin.com/in/dinesh-1866/"><img src="https://skillicons.dev/icons?i=linkedin" width="25px" alt="LinkedIn"/></a>
 <a href="https://x.com/insightsbydk"><img src="https://skillicons.dev/icons?i=twitter" width="25px" alt="X"/></a>
-<a href="https://dineshkumar.blog"><img src="https://skillicons.dev/icons?i=instagram" width="25px" alt="Instagram"/></a>
+<a href="https://www.instagram.com/dk.devv/"><img src="https://skillicons.dev/icons?i=instagram" width="25px" alt="Instagram"/></a>
 <a href="https://github.com/codesbydk"><img src="https://skillicons.dev/icons?i=github" width="25px" alt="Github"/></a>
 </p>
 
